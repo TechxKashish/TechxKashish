@@ -8,18 +8,12 @@
 ## 🌟 About Me
 - 🎓 **Pursuing Computer Science Engineering (CSE) majoring in Data Science**
 - 💡 **Passionate about AWS, Big Data, and Machine Learning**
-- 💼 **Completed 6-month training at Jaipur Marriott | Worked on AWS ALB Monitoring**
+- 💼 **Worked on AWS ALB Monitoring**
 - 🏆 **4-Star Python HackerRank | NPTEL ML Certified**
 - 📊 **Created a Tableau Dashboard analyzing Nike Sales Performance**
-- 📫 **Connect on [LinkedIn](your-linkedin-profile) | Email: radhikajindal238@gmail.com**
+- 📫 **Connect on [LinkedIn](www.linkedin.com/in/radhika08) | Email: radhikajindal238@gmail.com**
 
 ---
-
-## 🔥 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" width="50%" />
-</p>
 
 ## 🚀 Top Projects  
 🌟 [AWS ALB Monitoring System](https://github.com/your-username/AWS-ALB-Monitoring)  
@@ -37,15 +31,9 @@
 
 ---
 
-## 📊 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react)
-
----
-
 ## 📌 Contact Me  
-📫 **Email:** your-email@example.com  
-🌐 **LinkedIn:** [your-linkedin-profile](your-linkedin-profile)  
-📜 **Portfolio:** [your-portfolio-link](your-portfolio-link)  
+📫 **Email:** radhikajindal238@gmail.com  
+🌐 **LinkedIn:** [www.linkedin.com/in/radhika08](your-linkedin-profile)  
 
 ---
 
