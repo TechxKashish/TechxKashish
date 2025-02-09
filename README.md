@@ -37,5 +37,5 @@
 
 ---
 
-⭐ **Want to see more? Check out my repositories [here](https://github.com/your-username?tab=repositories)!**
+⭐ **Want to see more? Check out my repositories [here](https://github.com/TechxKashish?tab=repositories)!**
 
